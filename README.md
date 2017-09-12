@@ -1,2 +1,2 @@
 # docker-nginx-app-frontend
-Docker image of NGINX with various plugins compiled as dynamic modules
+Docker image of NGINX with various dynamic modules usable for SSO and/or reverse proxy frontend application
